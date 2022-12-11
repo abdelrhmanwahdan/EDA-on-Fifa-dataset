@@ -1,6 +1,6 @@
 ## EDA ON FOOTBALL PLAYERS STATISTICS FROM FIFA ⚽
 
-![Fifa](images/football.jpeg)
+![Fifa](images/fifa.jpg)
 
 Who doesn't play fifa all the time? In this project we are analyzing the fifa dataset to understand the distribution of the different players and all the hidden relationships between the fifa statistics. 
 
