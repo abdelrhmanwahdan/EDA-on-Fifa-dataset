@@ -20,21 +20,18 @@ Who doesn't play fifa all the time? In this project we are analyzing the fifa da
 
 3. [**DATA Visualization**](#Visualization)
 
-    1. [Univariate analysis](#Univariate_analysis)
-        - ![1](images/1.png)
-        - ![2](images/2.png)
-        - ![3](images/3.png)
-        - ![4](images/4.png)
 
+    ![1](images/1.png)
+    ![2](images/2.png)
+    ![3](images/3.png)
+    ![4](images/4.png)
 
-    2. [Bivariate analysis](#Bivariate_analysis)
-        - ![5](images/5.png)
-        - ![6](images/6.png)
-        - ![7](images/7.png)
+    ![5](images/5.png)
+    ![6](images/6.png)
+    ![7](images/7.png)
 
-    3. [Descriptive analysis](#Descriptive_analysis)
-        - ![8](images/8.png)
-        - ![9](images/9.png)
+    ![8](images/8.png)
+    ![9](images/9.png)
 
     
 4. [**REMOVING UNNECESSARY COLUMNS**](#removing_columns)
