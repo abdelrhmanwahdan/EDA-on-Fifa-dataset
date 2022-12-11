@@ -8,17 +8,17 @@ Who doesn't play fifa all the time? In this project we are analyzing the fifa da
 # Table of Contents
 
 
-1. [**IMPORTING LIBRARIES**](#Importing_libraries)
+1. **IMPORTING LIBRARIES**
 
-2. [**DATA DESCRIPTION AND DATA CLEANING**](#Data_description_and_data_cleaning)
+2. **DATA DESCRIPTION AND DATA CLEANING**
 
-    1. [Import data](#Import_data)
+    1. Import data
 
-    2. [Data Exploration](#Data_exploration)
+    2. Data Exploration
 
-    3. [Data cleaning](#Data_cleaning)
+    3. Data cleaning
 
-3. [**DATA Visualization**](#Visualization)
+3. **DATA Visualization**
 
 
     ![1](images/1.png)
@@ -34,4 +34,4 @@ Who doesn't play fifa all the time? In this project we are analyzing the fifa da
     ![9](images/9.png)
 
     
-4. [**REMOVING UNNECESSARY COLUMNS**](#removing_columns)
+4. **REMOVING UNNECESSARY COLUMNS**
